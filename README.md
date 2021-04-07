@@ -1,4 +1,4 @@
-# myStore
+# MyStore
 
 ### An e-commerce web application built using reactjs ,nodejs ,express and mongodb
 
